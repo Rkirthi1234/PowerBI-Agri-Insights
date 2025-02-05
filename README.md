@@ -3,5 +3,7 @@ This Power BI dashboard provides an in-depth analysis of Indian agriculture, cov
 
 Use Cases:
     Helps policymakers optimize agricultural policies.
+    
     Assists researchers in studying crop production trends.
+    
     Provides insights for agribusiness companies and farmers.
